@@ -49,8 +49,10 @@ arr = [1,2,3,4]
 print("Before calling function")
 print("value passed",x,"Id",id(x))
 print("Array passed",arr,"Id",id(arr))
+print()
 
 myfunc(x,arr)
 print("after calling function")
 print("value passed",x,"Id",id(x))
 print("Array passed",arr,"Id",id(arr))
+

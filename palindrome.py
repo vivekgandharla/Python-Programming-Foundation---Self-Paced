@@ -11,3 +11,6 @@ while low<high:
     high = high-1
 else:
     print("Yes")
+
+# reversing a string
+print(s[::-1])

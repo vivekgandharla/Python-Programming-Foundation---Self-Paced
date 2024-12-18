@@ -16,11 +16,3 @@ m = int(input("Enter the number : "))
 #         print(x)
 #         break
 #while loop
-x = 2
-while x<=m:
-    if m%x==0:
-        print(x)
-        break
-    x +=1
-
-    
